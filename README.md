@@ -1,2 +1,2 @@
 # advanced-renaming-python-script
-It rename files based on command-line arguments, sorting by creation date.
+It rename files in bulk based on command-line arguments.
